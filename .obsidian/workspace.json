@@ -168,24 +168,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfe0ef9e113452e4",
+  "active": "84336cbec328b8f1",
   "lastOpenFiles": [
-    "src/DjangoTube/DjangoTube/__init__.py",
-    "src/DjangoTube/DjangoTube/wsgi.py",
-    "src/DjangoTube/DjangoTube/urls.py",
-    "src/DjangoTube/DjangoTube/settings.py",
-    "src/DjangoTube/DjangoTube/asgi.py",
-    "src/DjangoTube/DjangoTube",
-    "src/DjangoTube/manage.py",
-    "src/DjangoTube",
-    "requierments.txt",
-    "src",
+    "src/manage.py",
+    "src/Backend/__init__.py",
+    "src/Backend/wsgi.py",
+    "src/Backend/urls.py",
+    "src/Backend/settings.py",
+    "src/Backend/asgi.py",
+    "src/Backend/Backend/__init__.py",
+    "src/Backend/Backend/wsgi.py",
+    "src/Backend/Backend/urls.py",
+    "src/Backend/Backend/settings.py",
+    "src/Backend/Backend/asgi.py",
     "readme.md",
     "Document/users/User Implementation Documentation.md",
     "Document/users/User API Documentation.md",
     "Document/users/User Design Documentation.md",
     "2025-02-17.md",
-    "Untitled.md",
-    "Document/users"
+    "Untitled.md"
   ]
 }
