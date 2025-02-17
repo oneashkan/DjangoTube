@@ -170,6 +170,14 @@
   },
   "active": "bfe0ef9e113452e4",
   "lastOpenFiles": [
+    "src/DjangoTube/DjangoTube/__init__.py",
+    "src/DjangoTube/DjangoTube/wsgi.py",
+    "src/DjangoTube/DjangoTube/urls.py",
+    "src/DjangoTube/DjangoTube/settings.py",
+    "src/DjangoTube/DjangoTube/asgi.py",
+    "src/DjangoTube/DjangoTube",
+    "src/DjangoTube/manage.py",
+    "src/DjangoTube",
     "requierments.txt",
     "src",
     "readme.md",
@@ -178,8 +186,6 @@
     "Document/users/User Design Documentation.md",
     "2025-02-17.md",
     "Untitled.md",
-    "Document/users",
-    "Document",
-    "documen"
+    "Document/users"
   ]
 }
