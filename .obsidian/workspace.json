@@ -129,7 +129,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -170,6 +170,9 @@
   },
   "active": "84336cbec328b8f1",
   "lastOpenFiles": [
+    "Document/users/User Implementation Documentation.md",
+    "readme.md",
+    "Untitled.canvas",
     "src/manage.py",
     "src/Backend/__init__.py",
     "src/Backend/wsgi.py",
@@ -180,9 +183,6 @@
     "src/Backend/Backend/wsgi.py",
     "src/Backend/Backend/urls.py",
     "src/Backend/Backend/settings.py",
-    "src/Backend/Backend/asgi.py",
-    "readme.md",
-    "Document/users/User Implementation Documentation.md",
     "Document/users/User API Documentation.md",
     "Document/users/User Design Documentation.md",
     "2025-02-17.md",
